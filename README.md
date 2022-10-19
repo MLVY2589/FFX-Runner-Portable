@@ -12,6 +12,7 @@ if you want to participate in testing, please fill in this form: https://forms.g
 ![2](https://user-images.githubusercontent.com/60174217/196505680-d098d509-843b-4df6-a896-f1454959758a.png)
 
 It is made purely in Unity 3D and coded in C#.
+**It will be availible on Google Play Store**
 
 Key differences between this version and the original will be:
 
