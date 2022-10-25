@@ -6,8 +6,8 @@ This game is a remake of a original game made by Officine Pixel
 
 After death of Shockwave Flash Player in January of 2021, this popular game became impossible to play. We are here to give a new engine to this old game from 2004.
 
-The game is currently in development, for updates, visit my Instagram profile: https://instagram.com/mvlabs.dev
-if you want to participate in testing, please fill in this form: https://forms.gle/EG7cB1SzicxHhi4Y6
+The game is currently in development, for updates, visit my Instagram profile: https://instagram.com/mvlabs.dev.
+If you want to participate in testing, please fill in this form: https://forms.gle/EG7cB1SzicxHhi4Y6
 
 ![2](https://user-images.githubusercontent.com/60174217/196505680-d098d509-843b-4df6-a896-f1454959758a.png)
 
