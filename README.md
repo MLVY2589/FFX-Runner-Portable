@@ -2,7 +2,8 @@
 This game is a remake of a original game made by Officine Pixel
 (https://github.com/OfficinePixel/ffx_runner)
 
-![1](https://user-images.githubusercontent.com/60174217/196503445-46babcc6-7566-4add-93ec-c9c34130c549.png)
+![world](https://user-images.githubusercontent.com/60174217/198898196-c607e50f-19f6-4b48-a378-41ec52d88dc9.png)
+
 
 After death of Shockwave Flash Player in January of 2021, this popular game became impossible to play. We are here to give a new engine to this old game from 2004.
 
